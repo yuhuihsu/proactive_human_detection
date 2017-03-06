@@ -1,3 +1,3 @@
 # proactive_human_detection
-topic:  PersonDetect
+topic:  PersonDetect<br/>
 type: Person[] people
